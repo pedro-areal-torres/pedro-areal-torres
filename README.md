@@ -1,8 +1,8 @@
 ## About Me
 - **Tech Lead** at ING, Netherlands
-- Online IT instructor
-- Developing **Engitex**, a SaaS for the textile industry
-- Stock market investor and vice president of APAM
+- Online IT instructor (with over 250 hours in class and more than 100 students)
+- Developing [**Engitex**](https://engitex.pt), a SaaS for the textile industry
+- Stock market investor and vice president of [**APAM**](https://apacionistasminoritarios.com/)
 
 ## My Skills
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
@@ -21,6 +21,11 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white) 
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+
+## Books That Inspired Me
+<details>
+  <summary>Tao of React</summary>
+</details>
 
 ## Get in touch
 - 📧 Email: [pedro.ts.torres@gmail.com](mailto:pedro.ts.torres@gmail.com)
