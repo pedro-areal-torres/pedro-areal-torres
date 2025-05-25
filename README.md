@@ -31,6 +31,7 @@
 ## Writting
 - **[Building apps that last: React beyond the syntax](https://medium.com/@pedrogarealtorres/building-apps-that-last-react-beyond-the-syntax-fa3d4cad0255)**: practical takeaways from *Tao of React* by Alex Kondov.
 - **[Become a software developer: If I could start over…](https://medium.com/@pedrogarealtorres/become-a-software-developer-if-i-could-start-over-022162dba016)**: what I would choose if I were starting my programming career today.
+- **[Refactoring UI](https://www.notion.so/Refactoring-UI-1f880fe4f43d80d9b4e5f625104b507b?pvs=4)**: book notes.
 
 ## Get in touch
 - <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="18"/> [pedro.ts.torres@gmail.com](mailto:pedro.ts.torres@gmail.com)  
