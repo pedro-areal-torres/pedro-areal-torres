@@ -37,5 +37,5 @@
 - <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="18"/> [pedro.ts.torres@gmail.com](mailto:pedro.ts.torres@gmail.com)  
 - <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="LinkedIn" width="18"/> [pedro-areal-torres](https://www.linkedin.com/in/pedro-areal-torres/)  
 - 🔨 [engitex.pt](https://engitex.pt/)
-- 🌐 [Personal Website](https://me-pedro-areal-torres.netlify.app/)
+- 🌐 [Personal Website](https://pedro-torres.netlify.app/)
 
