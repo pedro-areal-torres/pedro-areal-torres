@@ -2,7 +2,7 @@
 - **Tech Lead** at ING Bank, Netherlands
 - Online IT instructor (with over 250 hours in class and more than 100 students)
 - Developing [**Engitex**](https://engitex.pt), a SaaS for the textile industry
-- Stock market investor and vice president of [**APAM**](https://apacionistasminoritarios.com/)
+- Stock market investor
 
 ## My Skills
 - Frontend: ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white&logoSize=20) 
